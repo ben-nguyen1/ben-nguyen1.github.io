@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Hi.
+Blog for my CS373S: Software Engineering class that I took Spring 2017.
 
 ### More Information
 
-Hello.
+[My Website](https://www.ben-nguyen.me)
